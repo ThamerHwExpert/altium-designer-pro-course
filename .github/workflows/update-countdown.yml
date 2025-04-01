@@ -2,7 +2,7 @@ name: Update Countdown Badge
 
 on:
   schedule:
-    - cron: '0 * * * *'  # This runs at the start of every hour (UTC)
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
   workflow_dispatch:
 
 jobs:
