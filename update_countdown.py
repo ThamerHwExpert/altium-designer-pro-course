@@ -2,23 +2,23 @@
 import datetime
 import json
 
-# Read the deadline from file
+# Read the deadline from file (assumed in ISO format)
 with open('deadline.txt', 'r') as f:
     deadline_str = f.read().strip()
 
-# Parse the deadline (assumes ISO format)
+# Parse the deadline
 deadline = datetime.datetime.fromisoformat(deadline_str.replace("Z", "+00:00"))
 now = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
 
-# Calculate remaining time in days (you can refine this to include hours, etc.)
+# Calculate remaining time (you can output days or hours, here we choose hours)
 remaining = deadline - now
-days_left = remaining.days if remaining.days >= 0 else 0
+hours_left = int(remaining.total_seconds() // 3600) if remaining.total_seconds() > 0 else 0
 
-# Create a JSON structure for Shields.io
+# Create the JSON structure for Shields.io
 data = {
     "schemaVersion": 1,
     "label": "Deadline",
-    "message": f"{days_left} days left",
+    "message": f"{hours_left} hours left",
     "color": "blue"
 }
 
