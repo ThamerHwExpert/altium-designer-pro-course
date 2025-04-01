@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "label": "Deadline",
+  "message": "X days left",
+  "color": "blue"
+}
