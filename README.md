@@ -31,8 +31,6 @@
 
 🚀 **Places limitées ! Inscrivez-vous maintenant ⬇️**
 
-👉 [**S'INSCRIRE ICI**](https://lnkd.in/dawwVuUm)
-
 ---
 
 ## 🛠️ Programme de la Formation : De la Conception à la Fabrication de PCB
