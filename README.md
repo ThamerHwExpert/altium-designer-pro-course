@@ -1,6 +1,10 @@
 # 🚀 Formation Altium Designer Pro : De la Conception à la Fabrication
 
-**⚠️ Prolongation Date Limite - aux demandes des nouveaux participants!** 😎
+## ⏳ Countdown to Inscription Clôture
+
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ThamerHwExpert/altium-designer-pro-course/main/countdown.json" alt="Countdown Badge" />
+</p>
 
 ---
 
@@ -90,14 +94,6 @@
 - 🎯 **Maîtrise des protocoles de communication :** UART, SPI, I2C, USB  
 
 ---
-
-## ⏳ Countdown to Inscription Clôture
-
-> **Note:** Le fichier `countdown.json` est mis à jour automatiquement par le script `update_countdown.py` via GitHub Actions.
-
-<p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ThamerHwExpert/altium-designer-pro-course/main/countdown.json" alt="Countdown Badge" />
-</p>
 
 *Clôture des inscriptions : 04 avril 2025*
 
