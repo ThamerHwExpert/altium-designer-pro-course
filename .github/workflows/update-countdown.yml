@@ -1,0 +1,34 @@
+name: Update Countdown Badge
+
+# Run daily at midnight UTC and also allow manual triggering.
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update_countdown:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Countdown Update Script
+        run: python3 update_countdown.py
+
+      - name: Commit Changes if Any
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add countdown.json
+            git commit -m "Update countdown badge"
+            git push
+          fi
