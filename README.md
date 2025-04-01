@@ -97,6 +97,7 @@
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ThamerHwExpert/altium-designer-pro-course/main/countdown.json" alt="Countdown Badge" />
 </p>
 
+
 *Clôture des inscriptions : 04 avril 2025*
 
 ---
