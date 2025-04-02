@@ -3,7 +3,7 @@
 ## ⏳ Countdown to Inscription Clôture
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ThamerHwExpert/altium-designer-pro-course/main/countdown.json" alt="Countdown Badge" />
+  <img src="https://img.shields.io/endpoint?url=https://countdown-app-nenz.onrender.com/api" alt="Countdown Badge" />
 </p>
 
 ---
@@ -95,8 +95,5 @@
 
 ---
 
-*Clôture des inscriptions : 04 avril 2025*
-
----
-
+*Clôture des inscriptions : 04 avril 2025*  
 *Pour toute question, n'hésitez pas à nous contacter via [notre formulaire de contact](https://lnkd.in/dawwVuUm).*
