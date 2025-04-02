@@ -36,7 +36,7 @@
 - **Période** : Du 05 avril au 03 mai 2025
 - **Format** : 100% en ligne – Apprenez depuis chez vous !  
 - **Tarif spécial étudiant** : 185 DT
-- **Clôture des inscriptions** : 05 avril 2025
+- **Clôture des inscriptions** : 04 avril 2025
 
 🚀 **Places limitées ! Inscrivez-vous maintenant ⬇️**
 
