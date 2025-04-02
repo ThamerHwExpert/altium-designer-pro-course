@@ -3,7 +3,7 @@
 ## ⏳ Clôture des Inscriptions : Dernière ligne droite !
 
 <p align="center">
-  <a href="https://lnkd.in/dawwVuUm" target="_blank">
+  <a href="https://forms.gle/c9tp1nLhp7pw3yxU7" target="_blank">
     <img src="https://img.shields.io/endpoint?url=https://countdown-app-nenz.onrender.com/api" alt="Countdown Badge" />
   </a>
 </p>
@@ -36,11 +36,11 @@
 - **Période** : Du 05 avril au 03 mai 2025
 - **Format** : 100% en ligne – Apprenez depuis chez vous !  
 - **Tarif spécial étudiant** : 185 DT
-- **Clôture des inscriptions** : 05 avril 2025
+- **Clôture des inscriptions** : 04 avril 2025
 
 🚀 **Places limitées ! Inscrivez-vous maintenant ⬇️**
 
-👉 [**S'INSCRIRE ICI**](https://lnkd.in/dawwVuUm)
+👉 [**S'INSCRIRE ICI**](https://forms.gle/c9tp1nLhp7pw3yxU7)
 
 ---
 
@@ -101,4 +101,4 @@
 ---
 
 *Clôture des inscriptions : 04 avril 2025*  
-*Pour toute question, n'hésitez pas à nous contacter via [notre formulaire de contact](https://lnkd.in/dawwVuUm).*
+*Pour toute question, n'hésitez pas à nous contacter via [notre formulaire de contact](https://forms.gle/c9tp1nLhp7pw3yxU7).*
