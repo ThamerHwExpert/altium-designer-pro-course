@@ -1,10 +1,15 @@
 # 🚀 Formation Altium Designer Pro : De la Conception à la Fabrication
 
-## ⏳ Countdown to Inscription Clôture
+## ⏳ Clôture des Inscriptions : Dernière ligne droite !
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://countdown-app-nenz.onrender.com/api" alt="Countdown Badge" />
+  <a href="https://lnkd.in/dawwVuUm" target="_blank">
+    <img src="https://img.shields.io/endpoint?url=https://countdown-app-nenz.onrender.com/api" alt="Countdown Badge" style="zoom:150%;" />
+  </a>
 </p>
+
+<p align="center"><strong>📅 Ne ratez pas cette formation 100% pratique – réservez votre place maintenant !</strong></p>
+
 
 ---
 
