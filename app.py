@@ -5,7 +5,8 @@ app = Flask(__name__)
 
 @app.route("/api")
 def countdown():
-    # Set your deadline here (year, month, day, hour, minute, second)
+    # Set your subscription deadline (adjust date/time as needed)
+    # Example: deadline = April 4, 2025 at 00:00 UTC
     deadline = datetime.datetime(2025, 4, 4, 0, 0, 0)
     now = datetime.datetime.utcnow()
     diff = deadline - now
@@ -14,10 +15,10 @@ def countdown():
     # Return JSON in the format Shields.io expects
     return jsonify({
         "schemaVersion": 1,
-        "label": "Deadline",
+        "label": "Inscription",
         "message": f"{days_left} days left",
         "color": "blue"
     })
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)
