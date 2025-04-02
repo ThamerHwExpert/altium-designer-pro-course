@@ -7,7 +7,7 @@ app = Flask(__name__)
 def countdown():
     # Set your subscription deadline (adjust date/time as needed)
     # Example: deadline = April 4, 2025 at 00:00 UTC
-    deadline = datetime.datetime(2025, 4, 4, 23, 59, 59)
+    deadline = datetime.datetime(2025, 4, 4, 0, 0, 0)
     now = datetime.datetime.utcnow()
     diff = deadline - now
     days_left = diff.days if diff.days > 0 else 0
