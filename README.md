@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://lnkd.in/dawwVuUm" target="_blank">
-    <img src="https://img.shields.io/endpoint?url=https://countdown-app-nenz.onrender.com/api" alt="Countdown Badge" style="zoom:150%;" />
+    <img src="https://img.shields.io/endpoint?url=https://countdown-app-nenz.onrender.com/api" alt="Countdown Badge" />
   </a>
 </p>
 
